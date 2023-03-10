@@ -1,6 +1,4 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +6,5 @@
     <title>${title}</title>
     <link rel="stylesheet" href="webjars/bootstrap/5.2.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="webjars/bootstrap-icons/1.10.3/font/bootstrap-icons.css">
-
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
-
-</body>
-</html>
